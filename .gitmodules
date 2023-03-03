@@ -13,3 +13,6 @@
 [submodule "luci-app-filetransfer"]
 	path = luci-app-filetransfer
 	url = https://github.com/f8q8/luci-app-filetransfer.git
+[submodule "luci-app-poweroff"]
+	path = luci-app-poweroff
+	url = https://github.com/esirplayground/luci-app-poweroff.git
