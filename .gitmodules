@@ -1,0 +1,15 @@
+[submodule "istore"]
+	path = istore
+	url = https://github.com/linkease/istore.git
+[submodule "luci-app-unblockneteasemusic"]
+	path = luci-app-unblockneteasemusic
+	url = https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git
+[submodule "luci-theme-argon"]
+	path = luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon.git
+[submodule "luci-app-argon-config"]
+	path = luci-app-argon-config
+	url = https://github.com/jerrykuku/luci-app-argon-config.git
+[submodule "luci-app-filetransfer"]
+	path = luci-app-filetransfer
+	url = https://github.com/f8q8/luci-app-filetransfer.git
