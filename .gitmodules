@@ -19,3 +19,6 @@
 [submodule "luci-app-fullconenat"]
 	path = luci-app-fullconenat
 	url = https://github.com/peter-tank/luci-app-fullconenat.git
+[submodule "OpenAppFilter"]
+	path = OpenAppFilter
+	url = https://github.com/destan19/OpenAppFilter.git
