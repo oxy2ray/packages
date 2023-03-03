@@ -29,3 +29,7 @@
 	path = luci-app-passwall
 	url = https://github.com/xiaorouji/openwrt-passwall.git
 	branch = luci
+[submodule "Passwall"]
+	path = Passwall
+	url = https://github.com/xiaorouji/openwrt-passwall.git
+	branch = packages
