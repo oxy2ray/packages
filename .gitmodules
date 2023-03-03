@@ -22,3 +22,10 @@
 [submodule "OpenAppFilter"]
 	path = OpenAppFilter
 	url = https://github.com/destan19/OpenAppFilter.git
+[submodule "luci-app-serverchan"]
+	path = luci-app-serverchan
+	url = https://github.com/tty228/luci-app-serverchan.git
+[submodule "luci-app-passwall"]
+	path = luci-app-passwall
+	url = https://github.com/xiaorouji/openwrt-passwall.git
+	branch = luci
