@@ -16,3 +16,6 @@
 [submodule "luci-app-poweroff"]
 	path = luci-app-poweroff
 	url = https://github.com/esirplayground/luci-app-poweroff.git
+[submodule "luci-app-fullconenat"]
+	path = luci-app-fullconenat
+	url = https://github.com/peter-tank/luci-app-fullconenat.git
